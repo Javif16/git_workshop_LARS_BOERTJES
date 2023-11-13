@@ -10,3 +10,8 @@ print(f"Total population: {total:,}")
 print(f"Average population: {total / len(lines):,}")
 
 #Try adding comment --> 1
+
+
+#Imagine paying 75$ for COD
+#And not having the PS4 at home xD
+#THis is Bart btw
